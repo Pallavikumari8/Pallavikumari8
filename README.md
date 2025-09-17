@@ -29,6 +29,10 @@
 
 ### Languages: 
 <div align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" height="35" alt="android studio logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" height="35" alt="kotlin logo" />
+<img width="12" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="35" alt="java logo" />
 <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
