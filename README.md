@@ -3,9 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Pallavikumari8&color=blue)<br>
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" />
-</div>
+
 
 ###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
 
